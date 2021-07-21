@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Thunder-Movies/static/css/main.dd058a4f.chunk.css",
+    "main.js": "/Thunder-Movies/static/js/main.1adfd15e.chunk.js",
+    "main.js.map": "/Thunder-Movies/static/js/main.1adfd15e.chunk.js.map",
+    "runtime-main.js": "/Thunder-Movies/static/js/runtime-main.f4ade578.js",
+    "runtime-main.js.map": "/Thunder-Movies/static/js/runtime-main.f4ade578.js.map",
+    "static/js/2.55e01b8b.chunk.js": "/Thunder-Movies/static/js/2.55e01b8b.chunk.js",
+    "static/js/2.55e01b8b.chunk.js.map": "/Thunder-Movies/static/js/2.55e01b8b.chunk.js.map",
+    "static/js/3.57a18fa5.chunk.js": "/Thunder-Movies/static/js/3.57a18fa5.chunk.js",
+    "static/js/3.57a18fa5.chunk.js.map": "/Thunder-Movies/static/js/3.57a18fa5.chunk.js.map",
+    "index.html": "/Thunder-Movies/index.html",
+    "static/css/main.dd058a4f.chunk.css.map": "/Thunder-Movies/static/css/main.dd058a4f.chunk.css.map",
+    "static/js/2.55e01b8b.chunk.js.LICENSE.txt": "/Thunder-Movies/static/js/2.55e01b8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ade578.js",
+    "static/js/2.55e01b8b.chunk.js",
+    "static/css/main.dd058a4f.chunk.css",
+    "static/js/main.1adfd15e.chunk.js"
+  ]
+}
